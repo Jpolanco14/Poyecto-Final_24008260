@@ -1,0 +1,35 @@
+Algoritmo paso a paso para el Cotizador Automático de Seguros TK-U:
+
+Paso 1: Inicio del programa
+    1.1. Mostrar mensaje de bienvenida y propósito del programa.
+    1.2. Leer el archivo adjunto que contiene el programa base.
+    1.3. Interpretar y entender las distintas secciones del programa base.
+
+Paso 2: Definición de constantes y funciones
+    2.1. Definir las constantes necesarias, como el precio base del seguro y los recargos por edad y cantidad de hijos.
+    2.2. Definir una función para calcular el recargo por edad del asegurado o cónyuge.
+        2.2.1. Leer la edad como parámetro.
+        2.2.2. Calcular el recargo basado en las condiciones dadas y retornar el resultado.
+    2.3. Definir una función para calcular el recargo por cantidad de hijos.
+        2.3.1. Leer la cantidad de hijos como parámetro.
+        2.3.2. Calcular el recargo basado en la cantidad de hijos y retornar el resultado.
+    2.4. Definir una función para calcular el precio total del seguro.
+        2.4.1. Leer la edad del asegurado, la edad del cónyuge y la cantidad de hijos como parámetros.
+        2.4.2. Calcular los recargos por edad y cantidad de hijos.
+        2.4.3. Sumar el precio base y los recargos para obtener el precio total.
+        2.4.4. Retornar el precio total calculado.
+
+Paso 3: Solicitar datos al usuario
+    3.1. Mostrar mensajes para solicitar al usuario la edad del asegurado, la edad del cónyuge y la cantidad de hijos.
+    3.2. Leer los datos ingresados por el usuario y almacenarlos en variables.
+
+Paso 4: Calcular el precio total del seguro
+    4.1. Utilizar la función definida en el paso 2.4 para calcular el precio total del seguro.
+    4.2. Pasar como argumentos las edades del asegurado y del cónyuge, así como la cantidad de hijos.
+
+Paso 5: Mostrar el resultado
+    5.1. Mostrar el precio total del seguro calculado en el paso 4.
+    5.2. Finalizar el programa.
+
+Paso 6: Fin del programa
+    6.1. Finalizar la ejecución del programa.
